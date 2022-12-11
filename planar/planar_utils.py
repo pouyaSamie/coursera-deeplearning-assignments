@@ -26,7 +26,7 @@ def sigmoid(x):
     Compute the sigmoid of x
 
     Arguments:
-    x -- A scalar or numpy array of any size.
+    x -- A scalar or numpy array of any size. 
 
     Return:
     s -- sigmoid(x)
