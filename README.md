@@ -1,4 +1,4 @@
 # coursera-deeplearning-assignments
-Repository for neural-networks-deep-learning assignments on coursera
+Repository for Deep Learning Specialization assignments on coursera
 
-https://www.coursera.org/learn/neural-networks-deep-learning
+https://www.coursera.org/specializations/deep-learning
